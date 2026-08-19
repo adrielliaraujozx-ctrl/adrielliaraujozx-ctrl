@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner_site_1920x520.png" width="100%" alt="Adrielli Araújo — Software Engineering">
+<img src="./banner.png" width="100%" alt="Adrielli Araújo — Software Engineering">
 
 <br><br>
 
